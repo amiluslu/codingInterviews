@@ -4,6 +4,9 @@ import java.util.Arrays;
 
 public class BubbleSort {
 
+    /*
+    * Bubble Sort
+     */
     public static void main(String args[])
     {
         bubbleSort(new int[] { 20, 12, 45, 19, 91, 55 });

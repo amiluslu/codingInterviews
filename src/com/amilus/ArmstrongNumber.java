@@ -3,7 +3,9 @@ package com.amilus;
 import java.util.Scanner;
 
 public class ArmstrongNumber {
-
+    /*
+    * Check given number is ARMSTRONG number or not.
+    */
     public static void main(String args[]){
 
         System.out.println("Please Enter a number : ");
